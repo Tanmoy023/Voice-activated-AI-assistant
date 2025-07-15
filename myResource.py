@@ -1,0 +1,1 @@
+apiKey = 'Create_Google_Gemini_API_key_and_paste_that_here'
